@@ -4,8 +4,8 @@ This repository includes several training checkpoints of the _base_ and _small_ 
 
 ## 0-425k steps
 The following links contain the checkpoints released by [de-Dios-Flores, I & M. Garcia (2022) _A computational psycholinguistic evaluation of the syntactic abilities of Galician BERT models at the interface of dependency resolution and training time_ (SEPLN 2022)](https://sepln2022.grupolys.org/):
-  1. BERT-base: [zenodo link]().
-  2. BERT-small: [zenodo link]().
+  1. BERT-base: [zenodo link](https://zenodo.org/record/6546021).
+  2. BERT-small: [zenodo link](https://zenodo.org/record/6546009).
 
 ### Citation
 If you use these checkpoints please cite the following paper:
